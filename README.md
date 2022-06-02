@@ -1,3 +1,6 @@
+[![Build Status](https://dev.azure.com/Student1-23817418/Student1-23817418/_apis/build/status/Student1-23817418.ContosoAirfork?branchName=master)](https://dev.azure.com/Student1-23817418/Student1-23817418/_build/latest?definitionId=1&branchName=master)
+
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
